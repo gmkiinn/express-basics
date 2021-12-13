@@ -1,0 +1,6 @@
+{
+  "name": "Express-app-staginng",
+  "mail": {
+    "url": "stage-mail-server"
+  }
+}
